@@ -62,14 +62,6 @@ Then navigate to `http://localhost:8100` (or the port R assigns) in your browser
 
 ---
 
-## 🧠 Motivation
-
-This project was created to practice and showcase data visualization and dashboard-building skills in R, using historical sports data as a medium. It’s great for demonstrating:
-- Data wrangling
-- Dynamic UI elements
-- Deployment with `rsconnect` (shinyapps.io)
-
----
 
 ## 🌐 Deployment
 
